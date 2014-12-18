@@ -1,0 +1,23 @@
+{
+  "name": "minimal-bootstrap-grid",
+  "version": "0.0.0",
+  "homepage": "https://github.com/amiceli/minimal-bootstrap-grid",
+  "description": "minimal bootstrap grid",
+  "main": "css/bootstrap.min.css",
+  "keywords": [
+    "bootstrap",
+    "grid",
+    "minimal"
+  ],
+  "authors": [
+    "MICELI Antoine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
